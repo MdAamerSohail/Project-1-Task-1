@@ -1,1 +1,0 @@
-Task: Create a file with person details and send it to your mail using python. 
